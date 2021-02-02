@@ -4,9 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
-    tools:context=".login">
-=======
     android:background="@drawable/login_bk"
     tools:context=".LoginActivity">
 
@@ -18,6 +15,5 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
->>>>>>> ac6c5cd... Commit Rename
 
 </androidx.constraintlayout.widget.ConstraintLayout>
